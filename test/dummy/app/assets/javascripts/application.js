@@ -12,5 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require xmas_lights
+//= require xmas_lights/xmas_lights
 //= require_tree .

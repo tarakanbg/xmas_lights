@@ -1,2 +1,2 @@
-var urlBase = '/assets/';
-soundManager.url = '/assets/';
+var urlBase = '/assets/xmas_lights';
+soundManager.url = '/assets/xmas_lights';
